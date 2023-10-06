@@ -1,0 +1,13 @@
+Sandbox_FR = {
+	Sandbox_DGScentOfBlood = "Danger Zone: Scent of Blood",
+
+	Sandbox_DGScentOfBlood_BloodRange = "Zone de détection du sang",
+	Sandbox_DGScentOfBlood_BloodRange_tooltip = "La portée maximale où les zombies peuvent détecter du sang."
+
+	Sandbox_DGScentOfBlood_BloodyBandage = "Activer les bandages sanglants",
+	Sandbox_DGScentOfBlood_BloodyBandage_tooltip = "Les zombies peuvent-ils détecter des bandages sales imbibés de sang ?"
+	
+	Sandbox_DGScentOfBlood_DeepWounds = "Activer uniquement les blessures profondes",
+	Sandbox_DGScentOfBlood_DeepWounds_tooltip = "Les zombies devraient-ils détecter uniquement le sang provenant de blessures profondes ?"
+
+}
